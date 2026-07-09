@@ -1,7 +1,5 @@
 # Burners Campaigns
 
-Campaigns played with **Burners** — Paul's tabletop RPG design line (the *Wandyr2* lineage).
-
 This space collects the play material for Burners-run campaigns: prep, session logs,
 regions, NPCs, and the running saga.
 
@@ -10,8 +8,4 @@ regions, NPCs, and the running saga.
 
 ## Campaigns
 
-- **Burners of Ashenrise** — _coming soon_
-
----
-
-*Part of the Dragon Isles working root. See the table of contents in the sidebar.*
+- **Lothian Campaign**
