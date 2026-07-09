@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace/config (per-machine; not content)
+.obsidian/
+
+# iCloud eviction stubs
+*.icloud
+
+# Obsidian trash
+.trash/
