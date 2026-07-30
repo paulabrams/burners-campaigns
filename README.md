@@ -8,4 +8,4 @@ regions, NPCs, and the running saga.
 
 ## Campaigns
 
-- **Lothian Campaign**
+- **[Lothian Campaign](Lothian%20Campaign/README.md)** — player notes (XP, treasure, magic items, NPCs, locations)
