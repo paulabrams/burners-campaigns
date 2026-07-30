@@ -4,10 +4,21 @@
 
 ## Lothian Campaign
 
-* [Player notes](Lothian%20Campaign/README.md)
-* [Experience](Lothian%20Campaign/experience.md)
-* [Treasure](Lothian%20Campaign/treasure.md)
-* [Magic items](Lothian%20Campaign/magic-items.md)
-* [Retainers](Lothian%20Campaign/retainers.md)
-* [NPCs](Lothian%20Campaign/npcs.md)
-* [Locations](Lothian%20Campaign/locations.md)
+* [Player notes](lothian/README.md)
+* [Experience](lothian/experience.md)
+* [Treasure](lothian/treasure.md)
+* [Magic items](lothian/magic-items.md)
+* [Retainers](lothian/retainers.md)
+* [NPCs](lothian/npcs.md)
+* [Locations](lothian/locations.md)
+
+### Characters
+
+* [Roster](lothian/characters/README.md)
+* [Reinhardt](lothian/characters/reinhardt.md)
+* [Herrick](lothian/characters/herrick.md)
+* [Bellemy](lothian/characters/bellemy.md)
+* [Egil](lothian/characters/egil.md)
+* [Spade](lothian/characters/spade.md)
+* [Ylva](lothian/characters/ylva.md)
+* [Gar](lothian/characters/gar.md)

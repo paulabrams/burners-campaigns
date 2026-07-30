@@ -1,24 +1,33 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Burners Campaigns</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
-</head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Burners Campaigns',
-      repo: 'paulabrams/burners-campaigns',
-      loadSidebar: true,
-      subMaxLevel: 2,
-      auto2top: true,
-      homepage: 'README.md',
-      relativePath: true
-    }
-  </script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Burners Campaigns</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+    />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        name: "Burners Campaigns",
+        repo: "paulabrams/burners-campaigns",
+        loadSidebar: true,
+        subMaxLevel: 2,
+        auto2top: true,
+        homepage: "README.md",
+        // Sibling-relative links in markdown (Obsidian-friendly).
+        // Sidebar uses absolute /paths with basePath for GitHub Pages.
+        relativePath: true,
+        basePath: location.pathname.replace(/\/[^/]*$/, "/"),
+        alias: {
+          "/": "/README.md",
+        },
+      };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  </body>
 </html>
