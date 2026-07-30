@@ -6,7 +6,7 @@ Retainer (hired Session 2 by [Bellemy](bellemy.md)). **Not Mustering** (Bellemy 
 
 **Level ½** (1st-level retainer, half power) · Sword 1 · HP **2** (⌊1d6/2⌋; rolled 3) · Loyalty **7**
 
-Half power ([Burners Muster](../../../burners/markdown/burners-muster.md)): Approach rolls `2d6 + ⌊Sword/2⌋` (= +0); Fuel **level die ⌊1/2⌋ → min 1**; Veteran extras **⌊1/2⌋ = 0** → **one attack**. Half-share of haul when he lives. Puts himself first.
+Half power ([Burners Muster](https://paulabrams.github.io/burners/burners-muster.html)): Approach rolls `2d6 + ⌊Sword/2⌋` (= +0); Fuel **level die ⌊1/2⌋ → min 1**; Veteran extras **⌊1/2⌋ = 0** → **one attack**. Half-share of haul when he lives. Puts himself first.
 
 Egil wants him in Muster after camp sleep — not yet.
 

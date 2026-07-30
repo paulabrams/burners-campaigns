@@ -10,9 +10,9 @@ EGIL THE FAR-SUNG — KITH ARCHER-SKALD
 
 Traits: skald, far-wanderer, many-tongues, the far shaft
 
-Inventory Slots: hunting bow (2), quiver (1), war drum (1), broken bronze bell (1), leather armor (2), backpack (3), empty (2)
+Inventory Slots: hunting bow (2), quiver (1), war drum (1), broken bronze bell (1), silver Langarrow war-dart (1), leather armor (2), backpack (3), empty (1)
 
-Session 1: took **broken apex decoy bell** (A3); fired **silver Langarrow war-dart** vs beach draugr (**50% broken** — not checked yet). One alcove **porrón** was quaffed (party).
+Session 1: took **broken apex decoy bell** (A3); **threw** silver Langarrow war-dart vs beach draugr — still intact, in inventory. One alcove **porrón** was quaffed (party).
 
 PURSE   20 gp for welcome, word, Ylva's keep
 

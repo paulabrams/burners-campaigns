@@ -17,6 +17,7 @@ none yet
 ## Gear
 
 - sorcerer satchel (1 slot) — spellbook, pen and ink, loose paper sheaves, chalk, charcoal
+- three darts (1 slot)
 - rope
 - [Brinebreath Ring](../../../../campaigns/Lothian%20Campaign/treasure-details/Brinebreath%20Ring.md) — fish-marked bronze arm-ring found in Session 0; water-breathing and keeper's mark (lent to Egil and Ylva during the Session 1 coffin haul)
 - [silver brine-chalice](../../../../campaigns/Lothian%20Campaign/treasure-details/Brine-Vampire%20Coffin.md) — the spit-bucket; augments water-breathing; taken Session 2 from the draugr haul
