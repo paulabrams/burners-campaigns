@@ -5,7 +5,7 @@
 ## [Lothian Campaign](lothian/README.md)
 
 * [Experience](lothian/experience.md)
-* [Treasure](lothian/treasure.md)
+* [Gold Pieces](lothian/treasure.md)
 * [Magic items](lothian/magic-items.md)
 * [Characters](lothian/characters.md)
 * [NPCs](lothian/npcs.md)

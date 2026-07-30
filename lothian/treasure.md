@@ -1,16 +1,15 @@
-# Treasure
+# Gold Pieces
 
-Coin, gems, jewelry, and sale-valued goods claimed so far. **1 gp = 1 XP** when claimed (already on [Experience](experience.md)).
+Liquid assets that earn XP — coin, gems, jewelry, and sale-valued goods. We call that total **gp**. **1 gp claimed = 1 XP** (see [Experience](experience.md)).
 
-## Party total claimed: 2,292 gp
-
-| Haul | gp | Notes |
-| --- | ---: | --- |
-| A2 silt gold | 20 | Ebb Barrow antechamber |
-| Coffin interior | 130 | Draugr / sealed coffin (non-magic) |
-| Keeper's Lung Vault | 1,110 | Non-magic portion |
-| Crab cave gold | 12 | Shell Pillar |
-| Wet Devil Nest Hoard | 1,020 | True gold + copper that looked like gold |
+| Session | Location | Haul | gp |
+| ---: | --- | --- | ---: |
+| 0 | Ebb Barrow (A2) | Silt gold | 20 |
+| 1 | Ebb Barrow (coffin) | Coffin interior | 130 |
+| 1 | Ebb Barrow (lung vault) | Keeper's Lung Vault | 1,110 |
+| 3 | Shell Pillar | Crab cave gold | 12 |
+| 3 | Wet Devil nest | Nest hoard | 1,020 |
+|  |  | **Total claimed** | **2,292** |
 
 ## Spent
 

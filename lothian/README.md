@@ -5,7 +5,7 @@ Shared campaign notes for the table. No Referee secrets — just what helps you 
 Rules: [Burners](https://paulabrams.github.io/burners/).
 
 - [Experience](experience.md)
-- [Treasure](treasure.md)
+- [Gold Pieces](treasure.md)
 - [Magic items](magic-items.md)
 - [Characters](characters.md)
 - [NPCs](npcs.md)
