@@ -2,7 +2,7 @@
 
 Burners: **1 gp claimed = 1 XP**. Magic items give **0 XP**. Retainers not Mustering keep half of their award (round down).
 
-Updated through Session 4 (Jul 29, 2026). Character sheets: [roster](characters/README.md).
+Updated through Session 4 (Jul 29, 2026). Character sheets: [Characters](characters.md).
 
 **[Reinhardt](characters/reinhardt.md)**  
 Luka  

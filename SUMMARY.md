@@ -2,19 +2,17 @@
 
 * [Burners Campaigns](README.md)
 
-## Lothian Campaign
+## [Lothian Campaign](lothian/README.md)
 
-* [Player notes](lothian/README.md)
 * [Experience](lothian/experience.md)
 * [Treasure](lothian/treasure.md)
 * [Magic items](lothian/magic-items.md)
-* [Retainers](lothian/retainers.md)
+* [Characters](lothian/characters.md)
 * [NPCs](lothian/npcs.md)
 * [Locations](lothian/locations.md)
 
-### Characters
+### Character sheets
 
-* [Roster](lothian/characters/README.md)
 * [Reinhardt](lothian/characters/reinhardt.md)
 * [Herrick](lothian/characters/herrick.md)
 * [Bellemy](lothian/characters/bellemy.md)
