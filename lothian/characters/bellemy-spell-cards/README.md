@@ -14,7 +14,7 @@ Reusable kit / how-to for the next caster: [`rpg-original/burners/cards/`](../..
 | Bewitch | Illusione 1 | Control — Defend vs cast total |
 | Web Weave | Elementale 1 | Lasting until burned |
 | Fog Cloud | Elementale 1 | Fades in one turn |
-| Blur | Illusione 1 | −Damage while moving |
+| Undead Warding Glyph | — | Session 0 |
 | Card back | — | Face-down = burned |
 | Table Zones | — | Reminder card (optional) |
 

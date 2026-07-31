@@ -24,7 +24,7 @@ none yet
 
 ## Known spells
 
-read magic, visual illusion, auditory illusion, bewitch, web weave, fog cloud, blur
+read magic, visual illusion, auditory illusion, bewitch, web weave, fog cloud, undead warding glyph
 
 Printable hand: [spell cards](bellemy-spell-cards/README.md).
 

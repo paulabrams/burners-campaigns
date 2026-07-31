@@ -1,278 +1,387 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Bellemy Wrenfeather — Spell Cards</title>
-  <link rel="stylesheet" href="cards.css" />
-</head>
-<body>
-  <header class="sheet-header no-print">
-    <h1>Bellemy Wrenfeather — Spell Cards</h1>
-    <p>Print on Letter cardstock at <strong>Actual size / 100%</strong>. Cut on the outer black edge of each card (2.5&quot; × 3.5&quot; — MTG size). Six cards per page; extras spill to page 2.</p>
-  </header>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bellemy Wrenfeather — Spell Cards</title>
+    <link rel="stylesheet" href="cards.css" />
+  </head>
+  <body>
+    <header class="sheet-header no-print">
+      <h1>Bellemy Wrenfeather — Spell Cards</h1>
+      <p>
+        Print on Letter cardstock at <strong>Actual size / 100%</strong>. Cut on
+        the outer black edge of each card (2.5&quot; × 3.5&quot; — MTG size).
+        Six cards per page; extras spill to page 2.
+      </p>
+    </header>
 
-  <main class="sheet">
+    <main class="sheet">
+      <!-- Read Magic -->
+      <article class="card" aria-label="Read Magic">
+        <div class="card-name-row">
+          <h2 class="card-name">Read Magic</h2>
+          <div class="level-pip" title="Spell level">1</div>
+        </div>
+        <p class="type-line">Sorcerie · Instant</p>
+        <div class="art" aria-hidden="true">
+          <svg
+            viewBox="0 0 120 80"
+            fill="none"
+            stroke="#111"
+            stroke-width="1.6"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <!-- open scroll -->
+            <path
+              d="M28 18h64c4 0 6 3 6 6v32c0 3-2 6-6 6H28c-4 0-6-3-6-6V24c0-3 2-6 6-6z"
+            />
+            <path d="M22 24c-4 0-6 2-6 5v22c0 3 2 5 6 5" />
+            <path d="M98 24c4 0 6 2 6 5v22c0 3-2 5-6 5" />
+            <!-- eye -->
+            <ellipse cx="60" cy="40" rx="16" ry="9" />
+            <circle cx="60" cy="40" r="4" fill="#111" stroke="none" />
+            <!-- runes -->
+            <path
+              d="M38 58h10M48 58l3-3M72 58h10M82 58l-3-3"
+              stroke-width="1.2"
+            />
+          </svg>
+        </div>
+        <div class="rules">
+          <p>
+            You read magical script — runes, glyphs, spellbook entries, scroll
+            text — well enough to identify a working and open foreign hands.
+          </p>
+          <p>
+            Once you have read a spell in a <strong>book</strong>, treat it as
+            known while you carry that source. A <strong>scroll</strong>: learn
+            what it holds before you cast or unmake it. Probe deeper for Facts
+            (Step-2 risk).
+          </p>
+          <p>Always known. Costs no slot to know.</p>
+        </div>
+        <div class="footer">
+          <span>1 Fuel</span>
+          <span>Tap</span>
+          <span>Free-known</span>
+        </div>
+      </article>
 
-    <!-- Read Magic -->
-    <article class="card" aria-label="Read Magic">
-      <div class="card-name-row">
-        <h2 class="card-name">Read Magic</h2>
-        <div class="level-pip" title="Spell level">1</div>
-      </div>
-      <p class="type-line">Sorcerie · Instant</p>
-      <div class="art" aria-hidden="true">
-        <svg viewBox="0 0 120 80" fill="none" stroke="#111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-          <!-- open scroll -->
-          <path d="M28 18h64c4 0 6 3 6 6v32c0 3-2 6-6 6H28c-4 0-6-3-6-6V24c0-3 2-6 6-6z" />
-          <path d="M22 24c-4 0-6 2-6 5v22c0 3 2 5 6 5" />
-          <path d="M98 24c4 0 6 2 6 5v22c0 3-2 5-6 5" />
-          <!-- eye -->
-          <ellipse cx="60" cy="40" rx="16" ry="9" />
-          <circle cx="60" cy="40" r="4" fill="#111" stroke="none" />
-          <!-- runes -->
-          <path d="M38 58h10M48 58l3-3M72 58h10M82 58l-3-3" stroke-width="1.2" />
+      <!-- Visual Illusion -->
+      <article class="card" aria-label="Visual Illusion">
+        <div class="card-name-row">
+          <h2 class="card-name">Visual Illusion</h2>
+          <div class="level-pip" title="Spell level">1</div>
+        </div>
+        <p class="type-line">Illusione · Lasting</p>
+        <div class="art" aria-hidden="true">
+          <svg
+            viewBox="0 0 120 80"
+            fill="none"
+            stroke="#111"
+            stroke-width="1.6"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <!-- frame / mirror -->
+            <rect x="30" y="12" width="60" height="56" rx="2" />
+            <rect x="36" y="18" width="48" height="44" />
+            <!-- silhouette figure -->
+            <circle cx="60" cy="34" r="7" />
+            <path d="M48 58c2-10 8-14 12-14s10 4 12 14" />
+            <!-- dashed “false” mark -->
+            <path d="M22 40h8M90 40h8" stroke-dasharray="3 2" />
+          </svg>
+        </div>
+        <div class="rules">
+          <p>
+            You create a silent, motionless illusory image about the size of a
+            creature or object within Sorcerie × 10', lasting Sorcerie turns.
+          </p>
+          <p>
+            It casts no sound, light, or smell. Touching it or studying it
+            closely reveals the illusion.
+          </p>
+        </div>
+        <div class="footer">
+          <span>1 Fuel</span>
+          <span>Tap → In play</span>
+          <span>Lasting</span>
+        </div>
+      </article>
+
+      <!-- Auditory Illusion -->
+      <article class="card" aria-label="Auditory Illusion">
+        <div class="card-name-row">
+          <h2 class="card-name">Auditory Illusion</h2>
+          <div class="level-pip" title="Spell level">1</div>
+        </div>
+        <p class="type-line">Illusione · Instant</p>
+        <div class="art" aria-hidden="true">
+          <svg
+            viewBox="0 0 120 80"
+            fill="none"
+            stroke="#111"
+            stroke-width="1.6"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <!-- ear / sound source -->
+            <path
+              d="M42 28c0-8 6-14 14-14s14 6 14 14v12c0 8-6 14-14 14s-14-6-14-14V28z"
+            />
+            <path d="M50 32c0-4 3-7 6-7s6 3 6 7v8c0 4-3 7-6 7s-6-3-6-7v-8z" />
+            <!-- sound waves -->
+            <path d="M78 28c6 4 6 20 0 24" />
+            <path d="M88 22c10 8 10 28 0 36" />
+            <path d="M98 16c14 12 14 36 0 48" />
+          </svg>
+        </div>
+        <div class="rules">
+          <p>
+            You can create illusory sounds that seem to come from Sorcerie
+            directions of your choice.
+          </p>
+        </div>
+        <div class="footer">
+          <span>1 Fuel</span>
+          <span>Tap</span>
+        </div>
+      </article>
+
+      <!-- Bewitch -->
+      <article class="card" aria-label="Bewitch">
+        <div class="card-name-row">
+          <h2 class="card-name">Bewitch</h2>
+          <div class="level-pip" title="Spell level">1</div>
+        </div>
+        <p class="type-line">Illusione · Instant · Control</p>
+        <div class="art" aria-hidden="true">
+          <svg
+            viewBox="0 0 120 80"
+            fill="none"
+            stroke="#111"
+            stroke-width="1.6"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <!-- two eyes linked -->
+            <ellipse cx="40" cy="40" rx="14" ry="9" />
+            <circle cx="40" cy="40" r="3.5" fill="#111" stroke="none" />
+            <ellipse cx="80" cy="40" rx="14" ry="9" />
+            <circle cx="80" cy="40" r="3.5" fill="#111" stroke="none" />
+            <!-- bond -->
+            <path d="M54 40h12" />
+            <path d="M60 34v12" stroke-width="1.2" />
+            <!-- spark marks -->
+            <path
+              d="M60 18v6M60 56v6M28 22l4 4M88 22l-4 4"
+              stroke-width="1.2"
+            />
+          </svg>
+        </div>
+        <div class="rules">
+          <p>
+            Sorcerie humanoids believe they are close friends with you until
+            proven otherwise.
+          </p>
+          <p>
+            Control magic — the target Defends against your cast total. A clean
+            overrun lands the effect, not HP damage.
+          </p>
+        </div>
+        <div class="footer">
+          <span>1 Fuel</span>
+          <span>Tap</span>
+          <span>Control</span>
+        </div>
+      </article>
+
+      <!-- Web Weave -->
+      <article class="card" aria-label="Web Weave">
+        <div class="card-name-row">
+          <h2 class="card-name">Web Weave</h2>
+          <div class="level-pip" title="Spell level">1</div>
+        </div>
+        <p class="type-line">Elementale · Lasting</p>
+        <div class="art" aria-hidden="true">
+          <svg
+            viewBox="0 0 120 80"
+            fill="none"
+            stroke="#111"
+            stroke-width="1.4"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <!-- web -->
+            <circle cx="60" cy="40" r="8" />
+            <circle cx="60" cy="40" r="18" />
+            <circle cx="60" cy="40" r="28" />
+            <line x1="60" y1="12" x2="60" y2="68" />
+            <line x1="32" y1="40" x2="88" y2="40" />
+            <line x1="40" y1="20" x2="80" y2="60" />
+            <line x1="80" y1="20" x2="40" y2="60" />
+            <!-- droplet sticky hint -->
+            <path
+              d="M96 48c0 4-3 7-6 7s-6-3-6-7c0-5 6-12 6-12s6 7 6 12z"
+              stroke-width="1.3"
+            />
+          </svg>
+        </div>
+        <div class="rules">
+          <p>You can shoot Sorcerie × 40' of strong, sticky web.</p>
+          <p>Lasts until burned.</p>
+        </div>
+        <div class="footer">
+          <span>1 Fuel</span>
+          <span>Tap → In play</span>
+          <span>Lasting</span>
+        </div>
+      </article>
+
+      <!-- Fog Cloud -->
+      <article class="card" aria-label="Fog Cloud">
+        <div class="card-name-row">
+          <h2 class="card-name">Fog Cloud</h2>
+          <div class="level-pip" title="Spell level">1</div>
+        </div>
+        <p class="type-line">Elementale · Instant</p>
+        <div class="art" aria-hidden="true">
+          <svg
+            viewBox="0 0 120 80"
+            fill="none"
+            stroke="#111"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <!-- fog banks -->
+            <path
+              d="M18 48c6-8 14-10 22-6 6-10 18-12 28-4 8-8 20-6 28 2 8-4 16-2 20 6"
+            />
+            <path d="M22 58c8-6 16-6 24 0 8-8 20-8 30 0 8-6 18-4 24 4" />
+            <path d="M28 38c6-6 14-8 22-2 6-8 16-8 24 0 6-4 14-4 20 2" />
+            <!-- wisps -->
+            <path
+              d="M40 28c4-4 10-4 14 0M70 24c4-4 10-4 14 0"
+              stroke-width="1.2"
+            />
+          </svg>
+        </div>
+        <div class="rules">
+          <p>
+            Fog spreads out in a Sorcerie × 10' radius from you. Fades in one
+            turn.
+          </p>
+        </div>
+        <div class="footer">
+          <span>1 Fuel</span>
+          <span>Tap</span>
+        </div>
+      </article>
+
+      <!-- Undead Warding Glyph -->
+      <article class="card" aria-label="Undead Warding Glyph">
+        <div class="card-name-row">
+          <h2 class="card-name">Undead Warding Glyph</h2>
+          <div class="level-pip" title="Spell level">1</div>
+        </div>
+        <p class="type-line">Session 0</p>
+        <div class="art" aria-hidden="true">
+          <svg
+            viewBox="0 0 120 80"
+            fill="none"
+            stroke="#111"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <!-- ward glyph / circle -->
+            <circle cx="60" cy="40" r="26" />
+            <circle cx="60" cy="40" r="18" stroke-width="1.2" />
+            <!-- skull ward mark -->
+            <circle cx="60" cy="34" r="6" />
+            <path d="M52 46c2-4 6-6 8-6s6 2 8 6" />
+            <path d="M54 42v4M66 42v4" stroke-width="1.2" />
+            <!-- radiance ticks -->
+            <path d="M60 10v8M60 62v8M34 40h8M78 40h8" stroke-width="1.2" />
+          </svg>
+        </div>
+        <div class="rules">
+          <p>Undead warding glyph from Session 0.</p>
+        </div>
+        <div class="footer">
+          <span>1 Fuel</span>
+          <span>Tap → In play</span>
+        </div>
+      </article>
+
+      <!-- Card back -->
+      <article class="card back" aria-label="Card back">
+        <svg
+          class="back-mark"
+          viewBox="0 0 100 100"
+          fill="none"
+          stroke="#111"
+          stroke-width="1.8"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <circle cx="50" cy="50" r="42" />
+          <circle cx="50" cy="50" r="30" />
+          <!-- knot / rune -->
+          <path d="M50 20v60M20 50h60" />
+          <path d="M32 32c12 8 24 8 36 0M32 68c12-8 24-8 36 0" />
+          <path d="M32 68c8-12 8-24 0-36M68 68c-8-12-8-24 0-36" />
+          <circle cx="50" cy="50" r="6" fill="#111" stroke="none" />
         </svg>
-      </div>
-      <div class="rules">
-        <p>You read magical script — runes, glyphs, spellbook entries, scroll text — well enough to identify a working and open foreign hands.</p>
-        <p>Once you have read a spell in a <strong>book</strong>, treat it as known while you carry that source. A <strong>scroll</strong>: learn what it holds before you cast or unmake it. Probe deeper for Facts (Step-2 risk).</p>
-        <p>Always known. Costs no slot to know.</p>
-      </div>
-      <div class="footer">
-        <span>1 Fuel</span>
-        <span>Tap</span>
-        <span>Free-known</span>
-      </div>
-    </article>
+        <p class="back-title">Bellemy Wrenfeather</p>
+        <p class="back-sub">Sorcerie · Spell</p>
+        <p class="back-note">
+          Face-down = burned (exile) until sleep recovery.
+        </p>
+      </article>
 
-    <!-- Visual Illusion -->
-    <article class="card" aria-label="Visual Illusion">
-      <div class="card-name-row">
-        <h2 class="card-name">Visual Illusion</h2>
-        <div class="level-pip" title="Spell level">1</div>
-      </div>
-      <p class="type-line">Illusione · Lasting</p>
-      <div class="art" aria-hidden="true">
-        <svg viewBox="0 0 120 80" fill="none" stroke="#111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-          <!-- frame / mirror -->
-          <rect x="30" y="12" width="60" height="56" rx="2" />
-          <rect x="36" y="18" width="48" height="44" />
-          <!-- silhouette figure -->
-          <circle cx="60" cy="34" r="7" />
-          <path d="M48 58c2-10 8-14 12-14s10 4 12 14" />
-          <!-- dashed “false” mark -->
-          <path d="M22 40h8M90 40h8" stroke-dasharray="3 2" />
-        </svg>
-      </div>
-      <div class="rules">
-        <p>You create a silent, motionless illusory image about the size of a creature or object within Sorcerie × 10', lasting Sorcerie turns.</p>
-        <p>It casts no sound, light, or smell. Touching it or studying it closely reveals the illusion.</p>
-      </div>
-      <div class="footer">
-        <span>1 Fuel</span>
-        <span>Tap → In play</span>
-        <span>Lasting</span>
-      </div>
-    </article>
+      <!-- Zones reminder -->
+      <article class="card zones" aria-label="Table zones">
+        <div class="card-name-row">
+          <h2 class="card-name">Table Zones</h2>
+          <div class="level-pip" title="Reminder">?</div>
+        </div>
+        <p class="type-line">Reminder · Burners hand</p>
+        <ul class="zones-list">
+          <li>
+            <strong>Ready</strong>
+            Face-up, upright — cast anytime.
+          </li>
+          <li>
+            <strong>Tapped</strong>
+            Rotate 90° — cast, in discard (or lasting still running).
+          </li>
+          <li>
+            <strong>In play</strong>
+            Lasting effect active; leave the card out until it ends.
+          </li>
+          <li>
+            <strong>Burned</strong>
+            Flip face-down / exile — fuel for recast or copy. Still fills hand
+            size.
+          </li>
+        </ul>
+        <div class="footer">
+          <span>Sleep: recover up to Sorcerie cards</span>
+        </div>
+      </article>
+    </main>
 
-    <!-- Auditory Illusion -->
-    <article class="card" aria-label="Auditory Illusion">
-      <div class="card-name-row">
-        <h2 class="card-name">Auditory Illusion</h2>
-        <div class="level-pip" title="Spell level">1</div>
-      </div>
-      <p class="type-line">Illusione · Instant</p>
-      <div class="art" aria-hidden="true">
-        <svg viewBox="0 0 120 80" fill="none" stroke="#111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-          <!-- ear / sound source -->
-          <path d="M42 28c0-8 6-14 14-14s14 6 14 14v12c0 8-6 14-14 14s-14-6-14-14V28z" />
-          <path d="M50 32c0-4 3-7 6-7s6 3 6 7v8c0 4-3 7-6 7s-6-3-6-7v-8z" />
-          <!-- sound waves -->
-          <path d="M78 28c6 4 6 20 0 24" />
-          <path d="M88 22c10 8 10 28 0 36" />
-          <path d="M98 16c14 12 14 36 0 48" />
-        </svg>
-      </div>
-      <div class="rules">
-        <p>You can create illusory sounds that seem to come from Sorcerie directions of your choice.</p>
-      </div>
-      <div class="footer">
-        <span>1 Fuel</span>
-        <span>Tap</span>
-      </div>
-    </article>
-
-    <!-- Bewitch -->
-    <article class="card" aria-label="Bewitch">
-      <div class="card-name-row">
-        <h2 class="card-name">Bewitch</h2>
-        <div class="level-pip" title="Spell level">1</div>
-      </div>
-      <p class="type-line">Illusione · Instant · Control</p>
-      <div class="art" aria-hidden="true">
-        <svg viewBox="0 0 120 80" fill="none" stroke="#111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-          <!-- two eyes linked -->
-          <ellipse cx="40" cy="40" rx="14" ry="9" />
-          <circle cx="40" cy="40" r="3.5" fill="#111" stroke="none" />
-          <ellipse cx="80" cy="40" rx="14" ry="9" />
-          <circle cx="80" cy="40" r="3.5" fill="#111" stroke="none" />
-          <!-- bond -->
-          <path d="M54 40h12" />
-          <path d="M60 34v12" stroke-width="1.2" />
-          <!-- spark marks -->
-          <path d="M60 18v6M60 56v6M28 22l4 4M88 22l-4 4" stroke-width="1.2" />
-        </svg>
-      </div>
-      <div class="rules">
-        <p>Sorcerie humanoids believe they are close friends with you until proven otherwise.</p>
-        <p>Control magic — the target Defends against your cast total. A clean overrun lands the effect, not HP damage.</p>
-      </div>
-      <div class="footer">
-        <span>1 Fuel</span>
-        <span>Tap</span>
-        <span>Control</span>
-      </div>
-    </article>
-
-    <!-- Web Weave -->
-    <article class="card" aria-label="Web Weave">
-      <div class="card-name-row">
-        <h2 class="card-name">Web Weave</h2>
-        <div class="level-pip" title="Spell level">1</div>
-      </div>
-      <p class="type-line">Elementale · Lasting</p>
-      <div class="art" aria-hidden="true">
-        <svg viewBox="0 0 120 80" fill="none" stroke="#111" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
-          <!-- web -->
-          <circle cx="60" cy="40" r="8" />
-          <circle cx="60" cy="40" r="18" />
-          <circle cx="60" cy="40" r="28" />
-          <line x1="60" y1="12" x2="60" y2="68" />
-          <line x1="32" y1="40" x2="88" y2="40" />
-          <line x1="40" y1="20" x2="80" y2="60" />
-          <line x1="80" y1="20" x2="40" y2="60" />
-          <!-- droplet sticky hint -->
-          <path d="M96 48c0 4-3 7-6 7s-6-3-6-7c0-5 6-12 6-12s6 7 6 12z" stroke-width="1.3" />
-        </svg>
-      </div>
-      <div class="rules">
-        <p>You can shoot Sorcerie × 40' of strong, sticky web.</p>
-        <p>Lasts until burned.</p>
-      </div>
-      <div class="footer">
-        <span>1 Fuel</span>
-        <span>Tap → In play</span>
-        <span>Lasting</span>
-      </div>
-    </article>
-
-    <!-- Fog Cloud -->
-    <article class="card" aria-label="Fog Cloud">
-      <div class="card-name-row">
-        <h2 class="card-name">Fog Cloud</h2>
-        <div class="level-pip" title="Spell level">1</div>
-      </div>
-      <p class="type-line">Elementale · Instant</p>
-      <div class="art" aria-hidden="true">
-        <svg viewBox="0 0 120 80" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <!-- fog banks -->
-          <path d="M18 48c6-8 14-10 22-6 6-10 18-12 28-4 8-8 20-6 28 2 8-4 16-2 20 6" />
-          <path d="M22 58c8-6 16-6 24 0 8-8 20-8 30 0 8-6 18-4 24 4" />
-          <path d="M28 38c6-6 14-8 22-2 6-8 16-8 24 0 6-4 14-4 20 2" />
-          <!-- wisps -->
-          <path d="M40 28c4-4 10-4 14 0M70 24c4-4 10-4 14 0" stroke-width="1.2" />
-        </svg>
-      </div>
-      <div class="rules">
-        <p>Fog spreads out in a Sorcerie × 10' radius from you. Fades in one turn.</p>
-      </div>
-      <div class="footer">
-        <span>1 Fuel</span>
-        <span>Tap</span>
-      </div>
-    </article>
-
-    <!-- Blur -->
-    <article class="card" aria-label="Blur">
-      <div class="card-name-row">
-        <h2 class="card-name">Blur</h2>
-        <div class="level-pip" title="Spell level">1</div>
-      </div>
-      <p class="type-line">Illusione · Lasting</p>
-      <div class="art" aria-hidden="true">
-        <svg viewBox="0 0 120 80" fill="none" stroke="#111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <!-- offset ghost silhouettes -->
-          <circle cx="48" cy="28" r="8" opacity="0.45" />
-          <path d="M36 52c2-12 8-16 12-16s10 4 12 16" opacity="0.45" />
-          <circle cx="60" cy="28" r="8" />
-          <path d="M48 52c2-12 8-16 12-16s10 4 12 16" />
-          <circle cx="72" cy="28" r="8" opacity="0.45" />
-          <path d="M60 52c2-12 8-16 12-16s10 4 12 16" opacity="0.45" />
-          <!-- motion dashes -->
-          <path d="M20 40h10M90 40h10" stroke-dasharray="2 2" stroke-width="1.2" />
-        </svg>
-      </div>
-      <div class="rules">
-        <p>Attacks against you suffer −Sorcerie Damage while you move for Sorcerie turns.</p>
-      </div>
-      <div class="footer">
-        <span>1 Fuel</span>
-        <span>Tap → In play</span>
-        <span>Lasting</span>
-      </div>
-    </article>
-
-    <!-- Card back -->
-    <article class="card back" aria-label="Card back">
-      <svg class="back-mark" viewBox="0 0 100 100" fill="none" stroke="#111" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <circle cx="50" cy="50" r="42" />
-        <circle cx="50" cy="50" r="30" />
-        <!-- knot / rune -->
-        <path d="M50 20v60M20 50h60" />
-        <path d="M32 32c12 8 24 8 36 0M32 68c12-8 24-8 36 0" />
-        <path d="M32 68c8-12 8-24 0-36M68 68c-8-12-8-24 0-36" />
-        <circle cx="50" cy="50" r="6" fill="#111" stroke="none" />
-      </svg>
-      <p class="back-title">Bellemy Wrenfeather</p>
-      <p class="back-sub">Sorcerie · Spell</p>
-      <p class="back-note">Face-down = burned (exile) until sleep recovery.</p>
-    </article>
-
-    <!-- Zones reminder -->
-    <article class="card zones" aria-label="Table zones">
-      <div class="card-name-row">
-        <h2 class="card-name">Table Zones</h2>
-        <div class="level-pip" title="Reminder">?</div>
-      </div>
-      <p class="type-line">Reminder · Burners hand</p>
-      <ul class="zones-list">
-        <li>
-          <strong>Ready</strong>
-          Face-up, upright — cast anytime.
-        </li>
-        <li>
-          <strong>Tapped</strong>
-          Rotate 90° — cast, in discard (or lasting still running).
-        </li>
-        <li>
-          <strong>In play</strong>
-          Lasting effect active; leave the card out until it ends.
-        </li>
-        <li>
-          <strong>Burned</strong>
-          Flip face-down / exile — fuel for recast or copy. Still fills hand size.
-        </li>
-      </ul>
-      <div class="footer">
-        <span>Sleep: recover up to Sorcerie cards</span>
-      </div>
-    </article>
-
-  </main>
-
-  <p class="cut-hint">
-    Nine cards at true MTG size (2.5&quot; × 3.5&quot;) — Letter prints 3×2 (six per page) at 100%. Print backs on a second sheet if you want double-sided sleeves — or glue the shared back to each face after cutting. See <code>README.md</code>.
-  </p>
-</body>
+    <p class="cut-hint">
+      Nine cards at true MTG size (2.5&quot; × 3.5&quot;) — Letter prints 3×2
+      (six per page) at 100%. Print backs on a second sheet if you want
+      double-sided sleeves — or glue the shared back to each face after cutting.
+      See <code>README.md</code>.
+    </p>
+  </body>
 </html>
