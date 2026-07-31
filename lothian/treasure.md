@@ -1,6 +1,6 @@
 # Gold Pieces
 
-Liquid assets that earn XP — coin, gems, jewelry, and sale-valued goods. We call that total **gp**. **1 gp claimed = 1 XP** (see [Experience](experience.md)).
+Liquid assets that earn XP — coin, gems, jewelry, and sale-valued goods. We call that total **gp**. **1 gp claimed = 1 XP** (see [Experience](experience.md)). Near-coin valuables such as gems and jewelry are counted at approximate sale or barter value.
 
 | Session | Location | Haul | gp |
 | ---: | --- | --- | ---: |
