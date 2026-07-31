@@ -26,8 +26,6 @@
     <div id="app"></div>
     <script>
       const SUGGEST_EMAIL = "pabrams@gmail.com";
-      const GITHUB_BLOB =
-        "https://github.com/paulabrams/burners-campaigns/blob/main/";
       // mailto bodies blow up past ~1800 chars on many clients
       const MAILTO_BODY_LIMIT = 1800;
 
@@ -47,9 +45,13 @@
         },
         plugins: [
           function pageTools(hook, vm) {
+            function sourceUrl(file) {
+              return new URL(vm.config.basePath + file, location.href).href;
+            }
+
             hook.afterEach(function (html) {
               const file = (vm.route.file || "README.md").replace(/^\//, "");
-              const markdownUrl = GITHUB_BLOB + file;
+              const markdownUrl = sourceUrl(file);
               return (
                 html +
                 '<p class="page-tools">' +
@@ -72,10 +74,10 @@
                 e.preventDefault();
                 e.stopPropagation();
                 const file = link.dataset.file || "README.md";
-                const markdownUrl = GITHUB_BLOB + file;
+                const markdownUrl = sourceUrl(file);
                 let markdown = "";
                 try {
-                  const res = await fetch(vm.config.basePath + file);
+                  const res = await fetch(markdownUrl);
                   if (res.ok) markdown = await res.text();
                 } catch (_) {
                   /* fall through */
