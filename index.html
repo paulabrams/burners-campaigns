@@ -25,7 +25,6 @@
   <body>
     <div id="app"></div>
     <script>
-      const SUGGEST_EMAIL = "pabrams@gmail.com";
       // mailto bodies blow up past ~1800 chars on many clients
       const MAILTO_BODY_LIMIT = 1800;
 
@@ -49,9 +48,40 @@
               return new URL(vm.config.basePath + file, location.href).href;
             }
 
+            function mailtoHref(file, markdownUrl, markdown) {
+              const header = [
+                "Page: " + file,
+                "Site: " + location.href.split("#")[0] + "#/" + file.replace(/\.md$/, ""),
+                "Source: " + markdownUrl,
+                "",
+                "To: (fill in Paul's email — players know it)",
+                "",
+                "Edit the markdown below and send:",
+                "",
+              ].join("\n");
+
+              let body = header + (markdown || "(Paste from View markdown.)");
+              if (encodeURIComponent(body).length > MAILTO_BODY_LIMIT) {
+                body =
+                  header +
+                  "(Page is too long for email — open View markdown, copy, paste below, and edit.)\n\n";
+              }
+
+              // Empty To: — user enters the address in their mail client
+              return (
+                "mailto:?" +
+                "subject=" +
+                encodeURIComponent("Campaign notes update: " + file) +
+                "&body=" +
+                encodeURIComponent(body)
+              );
+            }
+
             hook.afterEach(function (html) {
               const file = (vm.route.file || "README.md").replace(/^\//, "");
               const markdownUrl = sourceUrl(file);
+              // Real mailto from the start so the click stays a user gesture
+              const href = mailtoHref(file, markdownUrl, "");
               return (
                 html +
                 '<p class="page-tools">' +
@@ -59,65 +89,31 @@
                 markdownUrl +
                 '" target="_blank" rel="noopener">View markdown</a>' +
                 " · " +
-                '<a href="#" class="suggest-change" data-file="' +
+                '<a class="suggest-change" data-file="' +
                 file +
-                '">Suggest a change</a>' +
+                '" href="' +
+                href +
+                '" title="Opens your mail app — put Paul\'s address in To">Suggest a change</a>' +
                 "</p>"
               );
             });
 
             hook.doneEach(function () {
               const link = document.querySelector(".suggest-change");
-              if (!link || link.dataset.bound) return;
-              link.dataset.bound = "1";
-              link.addEventListener("click", async function (e) {
-                e.preventDefault();
-                e.stopPropagation();
-                const file = link.dataset.file || "README.md";
-                const markdownUrl = sourceUrl(file);
-                let markdown = "";
-                try {
-                  const res = await fetch(markdownUrl);
-                  if (res.ok) markdown = await res.text();
-                } catch (_) {
-                  /* fall through */
-                }
-
-                const header = [
-                  "Page: " + file,
-                  "Site: " + location.href,
-                  "Markdown: " + markdownUrl,
-                  "",
-                  "Edit the markdown below and send:",
-                  "",
-                ].join("\n");
-
-                let body =
-                  header +
-                  (markdown ||
-                    "(Could not load page text — paste from View markdown.)");
-                if (encodeURIComponent(body).length > MAILTO_BODY_LIMIT) {
-                  try {
-                    await navigator.clipboard.writeText(markdown);
-                    body =
-                      header +
-                      "(Full page copied to your clipboard — paste below and edit.)\n\n";
-                  } catch (_) {
-                    body =
-                      header +
-                      "(Page is too long for email — open View markdown, copy, paste below, and edit.)\n\n";
-                  }
-                }
-
-                const mailto =
-                  "mailto:" +
-                  SUGGEST_EMAIL +
-                  "?subject=" +
-                  encodeURIComponent("Campaign notes update: " + file) +
-                  "&body=" +
-                  encodeURIComponent(body);
-                window.location.href = mailto;
-              });
+              if (!link || link.dataset.loaded) return;
+              const file = link.dataset.file || "README.md";
+              const markdownUrl = sourceUrl(file);
+              fetch(markdownUrl)
+                .then(function (res) {
+                  return res.ok ? res.text() : "";
+                })
+                .then(function (markdown) {
+                  link.href = mailtoHref(file, markdownUrl, markdown);
+                  link.dataset.loaded = "1";
+                })
+                .catch(function () {
+                  /* keep stub mailto */
+                });
             });
           },
         ],
