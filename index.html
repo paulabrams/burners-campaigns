@@ -18,6 +18,7 @@
       }
       .page-tools a {
         color: #42b983;
+        cursor: pointer;
       }
     </style>
   </head>
@@ -27,6 +28,8 @@
       const SUGGEST_EMAIL = "pabrams@gmail.com";
       const GITHUB_BLOB =
         "https://github.com/paulabrams/burners-campaigns/blob/main/";
+      // mailto bodies blow up past ~1800 chars on many clients
+      const MAILTO_BODY_LIMIT = 1800;
 
       window.$docsify = {
         name: "Burners Campaigns",
@@ -47,26 +50,6 @@
             hook.afterEach(function (html) {
               const file = (vm.route.file || "README.md").replace(/^\//, "");
               const markdownUrl = GITHUB_BLOB + file;
-              const subject = encodeURIComponent(
-                "Campaign notes update: " + file,
-              );
-              const body = encodeURIComponent(
-                [
-                  "Page: " + file,
-                  "Site: " + location.href,
-                  "Markdown: " + markdownUrl,
-                  "",
-                  "Suggested changes:",
-                  "",
-                ].join("\n"),
-              );
-              const mailto =
-                "mailto:" +
-                SUGGEST_EMAIL +
-                "?subject=" +
-                subject +
-                "&body=" +
-                body;
               return (
                 html +
                 '<p class="page-tools">' +
@@ -74,11 +57,65 @@
                 markdownUrl +
                 '" target="_blank" rel="noopener">View markdown</a>' +
                 " · " +
-                '<a href="' +
-                mailto +
+                '<a href="#" class="suggest-change" data-file="' +
+                file +
                 '">Suggest a change</a>' +
                 "</p>"
               );
+            });
+
+            hook.doneEach(function () {
+              const link = document.querySelector(".suggest-change");
+              if (!link || link.dataset.bound) return;
+              link.dataset.bound = "1";
+              link.addEventListener("click", async function (e) {
+                e.preventDefault();
+                e.stopPropagation();
+                const file = link.dataset.file || "README.md";
+                const markdownUrl = GITHUB_BLOB + file;
+                let markdown = "";
+                try {
+                  const res = await fetch(vm.config.basePath + file);
+                  if (res.ok) markdown = await res.text();
+                } catch (_) {
+                  /* fall through */
+                }
+
+                const header = [
+                  "Page: " + file,
+                  "Site: " + location.href,
+                  "Markdown: " + markdownUrl,
+                  "",
+                  "Edit the markdown below and send:",
+                  "",
+                ].join("\n");
+
+                let body =
+                  header +
+                  (markdown ||
+                    "(Could not load page text — paste from View markdown.)");
+                if (encodeURIComponent(body).length > MAILTO_BODY_LIMIT) {
+                  try {
+                    await navigator.clipboard.writeText(markdown);
+                    body =
+                      header +
+                      "(Full page copied to your clipboard — paste below and edit.)\n\n";
+                  } catch (_) {
+                    body =
+                      header +
+                      "(Page is too long for email — open View markdown, copy, paste below, and edit.)\n\n";
+                  }
+                }
+
+                const mailto =
+                  "mailto:" +
+                  SUGGEST_EMAIL +
+                  "?subject=" +
+                  encodeURIComponent("Campaign notes update: " + file) +
+                  "&body=" +
+                  encodeURIComponent(body);
+                window.location.href = mailto;
+              });
             });
           },
         ],
