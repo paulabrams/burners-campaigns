@@ -24,7 +24,9 @@ none yet
 
 ## Known spells
 
-read magic, visual illusion, auditory illusion, bewitch, web weave, fog cloud, undead warding glyph
+**Starting five (apprenticeship):** read magic, visual illusion, auditory illusion, bewitch, web weave
+
+**Scribed in play:** fog cloud, undead warding glyph — purse **100 gp** flat (Session 2 late bill; standing rule is time-only)
 
 Printable hand: [spell cards](bellemy-spell-cards/README.md).
 
@@ -32,7 +34,7 @@ Alignment: —
 
 ## Notes
 
-Session 2 night (Sunken Bell): recovered **web weave**. Recruited **[Gar](gar.md)** (**1 gp**). Session 2 morning: *read magic* on the fish-tin chart reverse — **knows that spell** (name/effect not yet logged on this sheet).
+Session 2 night (Sunken Bell): recovered **web weave** (already known — hand recover, not a copy). Recruited **[Gar](gar.md)** (**1 gp**). Session 2 morning: *read magic* on the fish-tin chart reverse — identified **undead warding glyph**, then scribed it with **fog cloud**. Purse: **100 gp** flat for that scribing (treasure record).
 
 ## Experience
 
