@@ -1,6 +1,6 @@
 # Gar
 
-Retainer — hired Session 2 by [Bellemy](bellemy.md); **Mustered by [Egil](egil.md)** from Session 5 camp (Gottsburg week). **Full XP share** while Mustering. **At table: Chris runs him** (second sheet). Referee keeps Loyalty only if Egil is down / absent.
+Retainer — hired Session 2 by [Bellemy](bellemy.md); **Mustered by [Egil](egil.md)** from Session 5. **XP:** splits half of Egil's award with his other Mustering seats (see [Experience](../experience.md)). **At table: Chris runs him**. Referee keeps Loyalty only if Egil is down / absent.
 
 *If this doesn’t match the table, send Paul an update.*
 
@@ -31,7 +31,7 @@ Scarred mercenary; axe, shield, helmet; scowls. Lost his crew of **three** to fo
 
 ## Pay
 
-Bellemy: **1 gp** to recruit (Session 2). Survivors take at least a **half-share** of treasure as wage. **XP:** full share while Mustering (past awards on the leaderboard were half — not Mustering yet).
+Bellemy: **1 gp** to recruit (Session 2). Survivors take at least a **half-share** of treasure as wage. **XP:** past awards as not-Musting ½; Mustering → split of half Egil's award.
 
 ## Notes
 

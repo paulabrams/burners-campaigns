@@ -1,6 +1,6 @@
 # Torvi
 
-Retainer — hired Session 5 by [Egil](egil.md). Job: **pick locks** on chests and strongboxes. **Mustered** from Session 5 camp (Gottsburg week) — **full XP share**. **At table: Chris runs her**. Referee keeps Loyalty only if Egil is down / absent.
+Retainer — hired Session 5 by [Egil](egil.md). Job: **pick locks** on chests and strongboxes. **Mustered** — **XP:** splits half of Egil's award with Ylva and Gar when all Mustering (see [Experience](../experience.md)). **At table: Chris runs her**. Referee keeps Loyalty only if Egil is down / absent.
 
 *If this doesn’t match the table, send Paul an update.*
 
@@ -35,7 +35,7 @@ Gottsburg quay lass — thin fingers, soft shoes, flat deadpan. Catch was thin; 
 
 ## Pay
 
-No flat delve wage — survivors take at least a **half-share** of treasure as wage. Equip from Egil. **XP:** full share while Mustering.
+No flat delve wage — survivors take at least a **half-share** of treasure as wage. Equip from Egil. **XP:** Mustering → split of half Egil's award.
 
 ## Notes
 
