@@ -34,7 +34,7 @@ Alignment: —
 
 ## Notes
 
-Session 2 night (Sunken Bell): recovered **web weave** (already known — hand recover, not a copy). Recruited **[Gar](gar.md)** (**1 gp**). Session 2 morning: *read magic* on the fish-tin chart reverse — identified **undead warding glyph**, then scribed it with **fog cloud**. Purse: **100 gp** flat for that scribing (treasure record).
+Session 2 night (Sunken Bell): recovered **web weave** (already known — hand recover, not a copy). Recruited **[Gar](gar.md)** (**1 gp**). Session 2 morning: *read magic* on the fish-tin chart reverse — identified **undead warding glyph**, then scribed it with **fog cloud**. Purse: **100 gp** flat for that scribing (treasure record). Session 5 camp: Gar moves into **Egil's Muster** (no longer Bellemy's hire sheet).
 
 ## Experience
 

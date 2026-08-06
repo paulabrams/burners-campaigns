@@ -14,7 +14,8 @@ XP totals: [Experience](experience.md).
 
 ## Retainers
 
-Half share of XP and treasure awards (not Mustering).
+- **[Ylva](characters/ylva.md).** Egil's sworn shieldmaiden — **Mustered**.
+- **[Gar](characters/gar.md).** Scarred merc Bellemy hired in Gottsburg; **Mustered by Egil** from Session 5 camp (full XP share going forward).
+- **[Torvi](characters/torvi.md).** Craft lockpick Egil hired Session 5; **Mustered** from Session 5 camp (full XP share).
 
-- **[Gar](characters/gar.md).** Scarred merc Bellemy hired in Gottsburg; lost his crew to wyverns in the fog. Egil wants him in Muster after camp sleep — not yet.
-- **[Ylva](characters/ylva.md).** Egil's sworn shieldmaiden.
+Egil's three Muster seats: Ylva · Gar · Torvi. Chris runs all three sheets.

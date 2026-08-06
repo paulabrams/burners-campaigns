@@ -51,7 +51,10 @@
             function mailtoHref(file, markdownUrl, markdown) {
               const header = [
                 "Page: " + file,
-                "Site: " + location.href.split("#")[0] + "#/" + file.replace(/\.md$/, ""),
+                "Site: " +
+                  location.href.split("#")[0] +
+                  "#/" +
+                  file.replace(/\.md$/, ""),
                 "Source: " + markdownUrl,
                 "",
                 "To: (fill in Paul's email — players know it)",

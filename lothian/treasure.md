@@ -26,3 +26,4 @@ Monster XP is separate (by Hit Dice). Full rules: [Burners Experience](https://p
 
 - Session 1 — **70 gp** (chapel healing + holy water)
 - Session 2 — **7 gp** (inn + recruit Gar)
+- Session 5 — **50 gp** wrecker tow (Osk) · **40 gp** Hraf face-money · **10 gp** Old Edda tip · **~300 gp** sails & rigging (Gudmund) · **20 gp** sail-staging day-labor · Torvi kit + provisions / arrows from purses (not copper-counted)

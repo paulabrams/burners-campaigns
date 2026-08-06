@@ -1,14 +1,12 @@
 # Gar
 
-Retainer (hired Session 2 by [Bellemy](bellemy.md)). **Not Mustering** (Bellemy has no Heart) — half XP, Loyalty checks in the press. **At table: Alek runs him** (orders, Initiative, Fuel, attacks). Referee only steps in for Loyalty / when Bellemy is down or absent.
+Retainer — hired Session 2 by [Bellemy](bellemy.md); **Mustered by [Egil](egil.md)** from Session 5 camp (Gottsburg week). **Full XP share** while Mustering. **At table: Chris runs him** (second sheet). Referee keeps Loyalty only if Egil is down / absent.
 
 *If this doesn’t match the table, send Paul an update.*
 
 **Level ½** (1st-level retainer, half power) · Sword 1 · HP **2** (⌊1d6/2⌋; rolled 3) · Loyalty **7**
 
-Half power ([Burners Muster](https://paulabrams.github.io/burners/burners-muster.html)): Approach rolls `2d6 + ⌊Sword/2⌋` (= +0); Fuel **level die ⌊1/2⌋ → min 1**; Veteran extras **⌊1/2⌋ = 0** → **one attack**. Half-share of haul when he lives. Puts himself first.
-
-Egil wants him in Muster after camp sleep — not yet.
+Half power ([Burners Muster](https://paulabrams.github.io/burners/burners-muster.html)): Approach rolls `2d6 + ⌊Sword/2⌋` (= +0); Fuel **level die ⌊1/2⌋ → min 1**; Veteran extras **⌊1/2⌋ = 0** → **one attack**. HP on the sheet does not rewrite mid-fight. Puts himself first.
 
 ## Initiative pool (round 1)
 
@@ -29,17 +27,17 @@ Egil wants him in Muster after camp sleep — not yet.
 
 ## Look
 
-Scarred mercenary; axe, shield, helmet; scowls. Lost his crew of **three** today to fog-wyverns ("jabberwocky") among the basalt pillars — the goats just laughed. Wanderer; fought all the way down to the front lines in **Nan-Avathar**.
+Scarred mercenary; axe, shield, helmet; scowls. Lost his crew of **three** to fog-wyverns ("jabberwocky") among the basalt pillars — the goats just laughed. Wanderer; fought all the way down to the front lines in **Nan-Avathar**.
 
 ## Pay
 
-Bellemy: **1 gp** to recruit (Session 2). No flat delve wage — survivors take at least a **half-share**.
+Bellemy: **1 gp** to recruit (Session 2). Survivors take at least a **half-share** of treasure as wage. **XP:** full share while Mustering (past awards on the leaderboard were half — not Mustering yet).
 
 ## Notes
 
-Not Mustering. Loyalty checks in the press. Hand the sheet to Alek — do not leave him last as a forgotten Ref turn.
+**Mustered** in one of Egil's three seats (with Ylva and Torvi). No fight Loyalty while Egil is active.
 
-Session 3 Wet Devil: rolled **5**, Initiative **1** (last) — underplayed while Referee-run. Pool size was correct for level-½ retainer.
+Session 3 Wet Devil: rolled **5**, Initiative **1** (last) — underplayed while Referee-run. Pool size was correct for level-½ retainer. Session 3–4: Alek ran him as Bellemy's hire. Session 5 camp: seat moved to Egil.
 
 ## Experience
 

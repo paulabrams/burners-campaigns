@@ -15,3 +15,4 @@
     * [Spade](/lothian/characters/spade.md)
     * [Ylva](/lothian/characters/ylva.md)
     * [Gar](/lothian/characters/gar.md)
+    * [Torvi](/lothian/characters/torvi.md)
