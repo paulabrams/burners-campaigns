@@ -40,7 +40,7 @@ A weathered northern drifter in a grey travelling cloak, longbow cased across hi
 
 ## Notes
 
-Joined Session 6. Sword 0 — one attack a round; the longbow is 3 slots (two-handed, two dice a blow). Journeyman: Craft 1 cuts party travel/weather costs by 1.
+Joined Session 6. Sword 0 — one attack a round; the longbow is 3 slots (two-handed, two dice a blow). Journeyman: Craft 1 cuts party travel/weather costs by 1. Session 6: Spark + Fuel **4** to Man-handle husks off the drowned span.
 
 ## Experience
 

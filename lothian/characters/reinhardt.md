@@ -22,6 +22,10 @@ none yet
 
 Alignment: —
 
+## Notes
+
+Session 6: splintered the *No God* front door with the poleax — looked through to fish and open sea (second exit if the rope is lost).
+
 ## Experience
 
 See [Experience](../experience.md).

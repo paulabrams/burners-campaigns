@@ -24,7 +24,7 @@ none yet — parked for later play: *Quick Draw* (Instinct on *longsword* / *agi
 
 ## Notes
 
-Joined Session 6 at the drowned skiff / Ebb Barrow causeway. Built at the table (Sword 1, longsword two-handed, gambeson, rondel). Session 6: crabs in A3; pinned and took the fisher's head; Spark-counter on the drowned span.
+Joined Session 6 at the drowned skiff / Ebb Barrow causeway. Built at the table (Sword 1, longsword two-handed, gambeson, rondel). Session 6: crabs in A3; pinned and took the fisher's head; knocked one of Bellemy's webbed four off the span — the knot went into the pit.
 
 ## Experience
 
