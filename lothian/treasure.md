@@ -20,10 +20,12 @@ Monster XP is separate (by Hit Dice). Full rules: [Burners Experience](https://p
 | 1 | Ebb Barrow (lung vault) | Coin caskets (400), satchel coin (45), ingots (100), salt pearls (180), coral torque (70), ambergris (50), eel-hook collar (50), arm-torcs (35), cloak-pin (20), brine-spoons (25), wine (60), chart tube (50), scrap manifold (25) | 1,110 |
 | 3 | Shell Pillar | 12 gp | 12 |
 | 3 | Wet Devil nest | 1,000 gp + 2,000 cp | 1,020 |
-| | | **Total claimed** | **2,292** |
+| 6 | Ebb Barrow (A3) | Sack under the Lord's coffin | 40 |
+| | | **Total claimed** | **2,332** |
 
 ## Spent
 
 - Session 1 — **70 gp** (chapel healing + holy water)
 - Session 2 — **7 gp** (inn + recruit Gar)
-- Session 5 — **50 gp** wrecker tow (Osk) · **40 gp** Hraf face-money · **10 gp** Old Edda tip · **~300 gp** sails & rigging (Gudmund) · **20 gp** sail-staging day-labor · Torvi kit + provisions / arrows from purses (not copper-counted)
+- Session 5 — **50 gp** wrecker tow (Osk) · **40 gp** Hraf face-money · **10 gp** Old Edda tip · **~300 gp** sails & rigging (Gudmund) · **20 gp** sail-staging day-labor
+- Session 5 (Gottsburg rest) — **15 gp** lodging (3 days × 5 people × 1 gp) · **5 gp** quiver (20 arrows, Egil) · **50 gp** standard rations, 2 weeks for 5 (Egil, for the group)

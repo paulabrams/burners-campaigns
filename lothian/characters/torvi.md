@@ -15,7 +15,7 @@ Kit pool: level **1** (½-power floor) + spear **2** ≈ **3** (or dagger **1** 
 ## Traits (2)
 
 - *lockpick* (Craft) — chests, padlocks, strongboxes
-- *quiet* (Craft)
+- *observant* (Craft) — placeholder; Joel may swap this for something more useful (table used *quiet* as a stand-in)
 
 ## Gear
 
@@ -41,7 +41,7 @@ No flat delve wage — survivors take at least a **half-share** of treasure as w
 
 **Mustered** in one of Egil's three seats (with Ylva and Gar). No fight Loyalty while Egil is active. Chris plays as second/third sheet.
 
-Ylva holds the wall; Torvi opens the chests. Lock checks: **Craft** (half-power Approach roll unless Managed).
+Ylva holds the wall; Torvi opens the chests. Lock checks: **Craft** (half-power Approach roll unless Managed). Second trait still Joel's if he wants a swap.
 
 ## Experience
 

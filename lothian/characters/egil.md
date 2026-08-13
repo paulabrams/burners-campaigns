@@ -25,7 +25,7 @@ FIGHT   loose from the back; Ylva holds the wall; Gar on the line; Torvi opens c
 
 **Muster (Session 5 camp):** three seats filled — Ylva · Gar · Torvi. Heart 1.
 
-Session 5: captain talk on the Grey Hart (pillars of plunder); undead hung the new sails.
+Session 5: captain talk on the Grey Hart (pillars of plunder); undead hung the new sails. Bought **quiver (20 arrows, 5 gp)** and **standard rations, 2 weeks for 5 (50 gp)** for the group (party purse).
 
 ## Experience
 

@@ -10,7 +10,9 @@ XP totals: [Experience](experience.md).
 - **[Herrick](characters/herrick.md)** (Joel)
 - **[Bellemy Wrenfeather](characters/bellemy.md)** (Alek) — [spell cards](characters/bellemy-spell-cards/README.md)
 - **[Egil the Far-Sung](characters/egil.md)** (Chris)
-- **[Spade](characters/spade.md)** (Asher)
+- **[Spade](characters/spade.md)** (Asher) — not at table Session 6
+- **[Aren Falk](characters/aren.md)** (Saxon) — joins Session 6
+- **[Corin Ash](characters/corin.md)** (Scott) — *Greyrook*; joins Session 6
 
 ## Retainers
 
