@@ -10,6 +10,7 @@
 * [Characters](lothian/characters.md)
 * [NPCs](lothian/npcs.md)
 * [Locations](lothian/locations.md)
+* [Handouts](lothian/handouts.md)
 
 ### Character sheets
 

@@ -10,3 +10,4 @@ Rules: [Burners](https://paulabrams.github.io/burners/).
 - [Characters](characters.md)
 - [NPCs](npcs.md)
 - [Locations](locations.md)
+- [Handouts](handouts.md)

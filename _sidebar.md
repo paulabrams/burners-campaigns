@@ -7,6 +7,7 @@
   * [Characters](/lothian/characters.md)
   * [NPCs](/lothian/npcs.md)
   * [Locations](/lothian/locations.md)
+  * [Handouts](/lothian/handouts.md)
   * Character sheets
     * [Reinhardt](/lothian/characters/reinhardt.md)
     * [Herrick](/lothian/characters/herrick.md)

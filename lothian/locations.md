@@ -2,6 +2,8 @@
 
 ## Gottsburg
 
+Town map: [Handouts](handouts.md#gottsburg-town-map).
+
 - **Gottsburg** — home town on the basalt coast
 - **Gudmund's lock-up** — where the barrow haul is stored; Session 5 sold sails & rigging (~300 gp)
 - **Sunken Bell** — inn; Torvi hired here Session 5

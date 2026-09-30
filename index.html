@@ -43,6 +43,23 @@
           "/": "/README.md",
         },
         plugins: [
+          // Docsify routes every relative link through #/…; point file
+          // downloads (PDF handouts, images) back at the real file.
+          function fileLinks(hook, vm) {
+            hook.afterEach(function (html) {
+              return html.replace(
+                /href="#\/([^"?]+\.(?:pdf|png|jpe?g))"/gi,
+                function (_, path) {
+                  return (
+                    'href="' +
+                    vm.config.basePath +
+                    path +
+                    '" target="_blank" rel="noopener"'
+                  );
+                }
+              );
+            });
+          },
           function pageTools(hook, vm) {
             function sourceUrl(file) {
               return new URL(vm.config.basePath + file, location.href).href;
