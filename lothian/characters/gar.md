@@ -21,6 +21,7 @@ Half power ([Burners Muster](https://paulabrams.github.io/burners/burners-muster
 
 - small ax (2 slots)
 - heater (3 slots)
+- **crowbar** — Session 7, for the stuck wood door (not used on the 20-foot)
 - kettle helm
 - gambeson (AC **2**, 4 slots) — scarred, travel-stained
 - waterskin, iron rations (thin)

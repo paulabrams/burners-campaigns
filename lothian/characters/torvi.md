@@ -23,7 +23,7 @@ Outfitted from **Egil's purse** (Session 5 table):
 
 - **leather armor**
 - **kettle hat**
-- **spear**
+- **spear** — Session 7: **squid-face** mounted as a light (kit, 0 XP)
 - lockpicks / probe set (1 slot) — job kit
 - waterskin, iron rations (thin)
 
@@ -41,7 +41,7 @@ No flat delve wage — survivors take at least a **half-share** of treasure as w
 
 **Mustered** in one of Egil's three seats (with Ylva and Gar). No fight Loyalty while Egil is active. Chris plays as second/third sheet.
 
-Ylva holds the wall; Torvi opens the chests. Lock checks: **Craft** (half-power Approach roll unless Managed). Second trait still Joel's if he wants a swap.
+Ylva holds the wall; Torvi opens the chests. Lock checks: **Craft** (half-power Approach roll unless Managed). Second trait still Joel's if he wants a swap. Session 7: picked the silver prison door (corrosion; borrowed picks).
 
 ## Experience
 

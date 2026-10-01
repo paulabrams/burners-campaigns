@@ -5,7 +5,7 @@
 Town map: [Handouts](handouts.md#gottsburg-town-map).
 
 - **Gottsburg** — home town on the basalt coast
-- **Gudmund's lock-up** — where the barrow haul is stored; Session 5 sold sails & rigging (~300 gp)
+- **Gudmund's lock-up** — where the barrow haul is stored; Session 5 sold sails & rigging (~300 gp). Session 7: retrofit the drowned skiff (price TBD); valuables here, not on the donkey
 - **Sunken Bell** — inn; Torvi hired here Session 5
 - **Cracked Chapel / Krankenhaus** — Old Edda (Session 5: 10 gp tip; Grey Hart curse lore)
 
@@ -19,7 +19,7 @@ Town map: [Handouts](handouts.md#gottsburg-town-map).
 
 Four marks on the stranger's chart (Session 0).
 
-- **Ebb Barrow** — causeway tomb at spring ebb (cleared Sessions 0–1); returned Session 6 through the arch. Lung opens into the first room of *No God* p.71 (flooded; rope down). Stranger's skiff at causeway end — basket serpent cooked, crate & barrel opened; oilcloth map still unfound
+- **Ebb Barrow** — causeway tomb at spring ebb (cleared Sessions 0–1); returned Session 6 through the arch. Lung opens into the first room of *No God* p.71 (flooded; rope down). Stranger's skiff at causeway end — basket serpent cooked, crate & barrel opened; oilcloth map still unfound. Rooms below: [Ebb Barrow — under the lung](../../../campaigns/Lothian%20Campaign/locations/Ebb%20Barrow%20No%20God.md)
 - **Bell Reef** — bell shrine on a sand-isle at lowest ebb (unvisited)
 - **The Grey Hart** — brigantine; **recovered Session 5**; new sails; cursed crew below decks by day; moored at Ebb Barrow causeway end of Session 5
 - **The Low Mine** — flooded tin adit under the cliffs (unvisited)

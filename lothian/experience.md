@@ -1,25 +1,27 @@
 # Experience
 
-Updated through Session 6 (Aug 12, 2026) — 12 bone-fighters + 40 gp coffin sack. Character sheets: [Characters](characters.md).
+Updated through Session 7 (Aug 19, 2026) — five gate-things (**300**), not animals; four tentacles + beak. Cell had no coin. Character sheets: [Characters](characters.md). Scene log: [lothian-xp-log](../../../campaigns/Lothian%20Campaign/campaign-player-briefs/lothian-xp-log.md).
 
-**[Reinhardt](characters/reinhardt.md)** (Luka) — Level 1 · XP 675 (Coin 501 + Monsters 174)
+**[Reinhardt](characters/reinhardt.md)** (Luka) — Level 1 · XP 717 (Coin 501 + Monsters 216)
 
-**[Herrick](characters/herrick.md)** (Joel) — Level 1 · XP 673 (Coin 501 + Monsters 172)
+**[Herrick](characters/herrick.md)** (Joel) — Level 1 · XP 715 (Coin 501 + Monsters 214)
 
-**[Bellemy](characters/bellemy.md)** (Alek) — Level 1 · XP 675 (Coin 501 + Monsters 174)
+**[Bellemy](characters/bellemy.md)** (Alek) — Level 1 · XP 717 (Coin 501 + Monsters 216)
 
-**[Egil](characters/egil.md)** (Chris) — Level 1 · XP 602 (Coin 495 + Monsters 107)
+**[Egil](characters/egil.md)** (Chris) — Level 1 · XP 644 (Coin 495 + Monsters 149)
 
 **[Spade](characters/spade.md)** (Asher) — Level 1 · XP 208 (Coin 146 + Monsters 62)
 
-**[Aren Falk](characters/aren.md)** (Saxon) — Level 1 · XP 26 (Coin 6 + Monsters 20)
+**[Aren Falk](characters/aren.md)** (Saxon) — Level 1 · XP 68 (Coin 6 + Monsters 62)
 
-**[Corin Ash](characters/corin.md)** (Scott) — Level 1 · XP 26 (Coin 6 + Monsters 20)
+**[Corin Ash](characters/corin.md)** (Scott) — Level 1 · XP 68 (Coin 6 + Monsters 62)
 
-**[Ylva](characters/ylva.md)** (Mustered) — Level ½ · XP 289 (Coin 244 + Monsters 45)
+**[Kai'Shem](characters/Kai'Shem.md)** (Leon) — Level 1 · XP 42 (Coin 0 + Monsters 42)
 
-**[Gar](characters/gar.md)** (Mustered) — Level ½ · XP 119 (Coin 73 + Monsters 46)
+**[Ylva](characters/ylva.md)** (Mustered) — Level ½ · XP 296 (Coin 244 + Monsters 52)
 
-**[Torvi](characters/torvi.md)** (Mustered) — Level ½ · XP 4 (Coin 1 + Monsters 3)
+**[Gar](characters/gar.md)** (Mustered) — Level ½ · XP 126 (Coin 73 + Monsters 53)
+
+**[Torvi](characters/torvi.md)** (Mustered) — Level ½ · XP 11 (Coin 1 + Monsters 10)
 
 Rules: [Burners Experience](https://paulabrams.github.io/burners/burners-experience.html)

@@ -16,6 +16,7 @@ none yet
 
 ## Gear
 
+- **wizard's staff** — Arcana, **3** Sorcerie slots (Session 7, costume **100 gp**); throws 3 Initiative
 - sorcerer satchel (1 slot) — spellbook, pen and ink, loose paper sheaves, chalk, charcoal
 - three darts (1 slot)
 - rope
@@ -34,7 +35,7 @@ Alignment: —
 
 ## Notes
 
-Session 2 night (Sunken Bell): recovered **web weave** (already known — hand recover, not a copy). Recruited **[Gar](gar.md)** (**1 gp**). Session 2 morning: *read magic* on the fish-tin chart reverse — identified **undead warding glyph**, then scribed it with **fog cloud**. Purse: **100 gp** flat for that scribing (treasure record). Session 5: burned **web weave** on the Grey Hart tow; **3 days** Gottsburg lodging to recover — **web weave** back. Session 5 camp: Gar moves into **Egil's Muster** (no longer Bellemy's hire sheet). Session 6: burned **web weave** again (four bone-fighters chained on the drowned span; Aren knocked one and they fell). Alek wants costume Arcana in town (**100 gp** each) — not bought yet.
+Session 2 night (Sunken Bell): recovered **web weave** (already known — hand recover, not a copy). Recruited **[Gar](gar.md)** (**1 gp**). Session 2 morning: *read magic* on the fish-tin chart reverse — identified **undead warding glyph**, then scribed it with **fog cloud**. Purse: **100 gp** flat for that scribing (treasure record). Session 5: burned **web weave** on the Grey Hart tow; **3 days** Gottsburg lodging to recover — **web weave** back. Session 5 camp: Gar moves into **Egil's Muster** (no longer Bellemy's hire sheet). Session 6: burned **web weave** again (four bone-fighters chained on the drowned span; Aren knocked one and they fell). Session 7: Sunken Bell sleep — **web weave** back. Bought **wizard's staff** (costume Arcana, **3** Sorcerie slots, **100 gp**). Session 7 dive: **web weave** across the prison jamb (gap to spear) — **spent** again.
 
 ## Experience
 

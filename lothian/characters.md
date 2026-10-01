@@ -13,6 +13,7 @@ XP totals: [Experience](experience.md).
 - **[Spade](characters/spade.md)** (Asher) — not at table Session 6
 - **[Aren Falk](characters/aren.md)** (Saxon) — joins Session 6
 - **[Corin Ash](characters/corin.md)** (Scott) — *Greyrook*; joins Session 6
+- **[Kai'Shem](characters/Kai'Shem.md)** (Leon) — Alu Umbrakala; joins Session 7
 
 ## Retainers
 

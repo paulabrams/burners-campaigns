@@ -4,7 +4,7 @@ Player: Joel
 
 *If this doesn’t match your table copy, send Paul an update.*
 
-Sword 1 · HP **1** (full)
+Sword 1 · HP **1** (full) — Session 7: **deadly Wound**, below 0. Shock **11** (passed). Survival pending (`2d6 + 1`, not 1+1; no healer).
 
 ## Traits
 
@@ -29,6 +29,8 @@ none yet
 Session 0: **−3 HP** torso wound (Shock Check passed). Session 1: wound-effect skipped at table. **Cracked Chapel** — **30 gp** healing (**10 gp/HP**, −3 → 0); **4 × holy water** at **10 gp**/vial (**40 gp**). **70 gp** total spoken. Session 2 night (Sunken Bell): natural recovery **0 → 1**; wound closed. Session 2 crabs: no damage.
 
 Session 5: paid **Osk** **50 gp** to tow the Grey Hart; **40 gp** toward Hraf's face; **10 gp** tip to Old Edda. Offered the **bronze brine-knife** — **Egil** holding it for now.
+
+Session 7: tentacle-crabs. **Deadly Wound** (shock held). Survival not yet rolled.
 
 ## Experience
 
