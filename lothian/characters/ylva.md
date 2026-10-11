@@ -10,6 +10,10 @@ Sword 1, Handling 1 · HP **2** (⌊5/2⌋ — rolled 5, half power)
 
 **7 dice:** level **1** (½-power floor) + battle ax **3** + shield **3**.
 
+## Traits
+
+- *battle ax* (Sword) — two dice a blow when she swings it two-handed
+
 ## Gear
 
 - battle ax (3 slots, two-handed) — one-handed behind the shield it swings at Class 2 with no tags; drop the shield for the full ax
