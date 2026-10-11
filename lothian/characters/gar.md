@@ -10,7 +10,7 @@ Half power ([Burners Muster](https://paulabrams.github.io/burners/burners-muster
 
 ## Initiative pool (round 1)
 
-**4 dice:** level **1** (½-power floor) + small ax **1** + heater **3**. Gambeson is worn soak — no Initiative dice.
+**5 dice:** level **1** (½-power floor) + small ax **2** + heater **3**. Gambeson is worn soak — no Initiative dice.
 
 ## Traits (2)
 
@@ -19,7 +19,7 @@ Half power ([Burners Muster](https://paulabrams.github.io/burners/burners-muster
 
 ## Gear
 
-- small ax (1 slot)
+- small ax (2 slots)
 - heater (3 slots)
 - **crowbar** — Session 7, for the stuck wood door (not used on the 20-foot)
 - kettle helm
