@@ -12,7 +12,7 @@ Sword 1, Handling 1 · HP **2** (⌊5/2⌋ — rolled 5, half power)
 
 ## Traits
 
-- *battle ax* (Sword) — two dice a blow when she swings it two-handed
+- *battle ax* (Sword)
 
 ## Gear
 
