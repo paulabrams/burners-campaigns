@@ -6,9 +6,9 @@ source: rpg-original/burners/experiments/burners-updates-2026-10-13.md
 
 # Burners: what's new tonight
 
-**Your dice.** Your Fuel is your level + empty slots (up to 4). Weapons and shields
+**Your dice.** Your Fuel is your level + empty slots (up to 3). Weapons and shields
 don't add dice anymore. Travel light, leave your pack in a safe room, and you'll
-have 5 dice at level 1.
+have 4 dice at level 1. Caught with your pack on, you roll only your level.
 
 **The big win: you refill every round.** At the top of each round, drop the dice
 you don't want and roll back up to full. No more running dry by round 3. Keep the
@@ -45,17 +45,17 @@ earned, and I'll tell you if you've leveled.
 
 | Character | Fuel as carried | Lighter | A 1 on a blow | A 1 on a Defend |
 | --- | ---: | --- | --- | --- |
-| Aren | 1 | 5 with the oil on the porter | longsword 4 | longsword 2 |
-| Bellemy | 5 | | | |
-| Corin | 3 | 5 with the pack off | longbow 4 | |
+| Aren | 1 | 4 with the oil on the porter | longsword 4 | longsword 2 |
+| Bellemy | 4 | | | |
+| Corin | 1 | 4 with the pack off | longbow 4 | |
 | Egil | 1 | 4 with the pack off | | |
 | Herrick | 3 | | arming sword 3 | heater 4, sword 2 |
 | Kai'Shem | 4 | | | |
 | Reinhardt | 2 | | poleax 5 | |
-| Spade | 4 | 5 with the pack off | giant shovel 5 | |
+| Spade | 1 | 4 with the pack off | giant shovel 5 | |
 | Gar | 2 | | small ax 3 | heater 4 |
-| Ylva | 4 | | battle ax 4 | |
-| Torvi | 4 | | | |
+| Ylva | 3 | | battle ax 4 | |
+| Torvi | 3 | | | |
 
 A blank means no item Trait for it yet. A *staff* Trait would make Bellemy's 1s a 4
 on a cast; *hunting bow* would make Egil's a 3; *av-tlen* would make Kai'Shem's a 3
