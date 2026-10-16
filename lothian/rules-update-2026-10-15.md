@@ -22,9 +22,6 @@ before them. Don't pay, and you go after.
 slots: a sword makes it 3, a heater 4, a tower 6. A sword's guard parries as 1
 slot, so on a Defend its 1 is a 2. Each item fixes one 1 per blow or Defend.
 
-**Defend.** 2 dice, or 3 with a shield up. Defend 1 if nothing in your hands can
-turn the blow. Spells: no limit, as before.
-
 **Monster damage is rolled.** It can spike: a top face adds another die. I can
 always deal less.
 
